@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingsave",
+        "uuid": 8481125,
+        "checksum": "eq7nt5"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
